@@ -32,5 +32,5 @@ a) Print the collection
 
 b) Print who plays guitar
 
-### Problem 5:
+### Challenge:
 Create a function that will have a hard coded array of Kenn, Kevin, and Erin several times in the array. Print out how many times Kenn, Kevin, or Erin appears in an array.
